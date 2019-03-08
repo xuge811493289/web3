@@ -1,0 +1,14 @@
+//为了给别人写注释
+echo "# web3" >> README.md
+//初始化本地仓库
+git init
+//添加代码
+git add README.md
+
+git commit -m "first commit"
+git remote add origin https://github.com/xuge811493289/web3.git
+git push -u origin master
+
+
+git remote add origin https://github.com/xuge811493289/web3.git
+git push -u origin master
